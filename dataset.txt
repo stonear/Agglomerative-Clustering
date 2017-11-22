@@ -1,0 +1,22 @@
+# agglomerative hierarchial clustering
+# available linkage -> single/complete
+
+[Configuration]
+data	: 4
+x       : 2
+linkage : single
+cluster : 2
+
+[Data]
+1.name	: 1
+1.x1	: 1.0
+1.x2	: 7.0
+2.name	: 2
+2.x1	: 2.0
+2.x2	: 5.0
+3.name	: 3
+3.x1	: 7.0
+3.x2	: 4.0
+4.name	: 4
+4.x1	: 8.0
+4.x2	: 2.0
